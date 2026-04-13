@@ -8,9 +8,9 @@
   </a>
 </p>
 
-<div align="center">
+<p align="center">
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dobadat182)](https://git.io/streak-stats)
-</div>
+</p>
 
 ---
 
