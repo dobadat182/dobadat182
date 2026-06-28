@@ -1,1 +1,65 @@
-<h1 align="center">Hi 👋, I'm Dat</h1> <h3 align="center">Frontend Developer | Product Owner</h3> <p align="center"> <a href="https://github.com/dobadat182"> <img src="https://komarev.com/ghpvc/?username=dobadat182&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </a> </p> <p align="center"> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dobadat182)](https://git.io/streak-stats) </p> --- ## 🧑‍💻 About Me - 🚀 Frontend Developer with product mindset - 🎯 Focus: **React, Next.js, Performance, UX** - 🧠 Thinking like a **Product Owner** - ⚡ Love building scalable & clean architecture systems - 📍 Vietnam --- ## 🛠 Tech Stack ### 🚀 Frontend ![React](https://img.shields.io/badge/-React-000?&logo=React) ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=nextdotjs) ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-000?&logo=tailwind-css) ### ⚙️ State & Data ![Zustand](https://img.shields.io/badge/-Zustand-000) ![React Query](https://img.shields.io/badge/-ReactQuery-000?&logo=react-query) ![Axios](https://img.shields.io/badge/-Axios-000?&logo=axios) ### 🧠 Architecture - Feature-based structure - Clean Architecture mindset - API optimization (retry, caching, single-flight) --- ## 📊 GitHub Stats <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dobadat182&show_icons=true&theme=default" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dobadat182&theme=default" /> </p> --- ## 📌 Featured Projects ### 🚀 Project Name > Short description of your project - Tech: Next.js, Zustand, React Query - Feature: Auth flow, caching, performance optimization 🔗 Demo: https://your-demo-link.com 📦 Repo: https://github.com/your-username/project --- ## 🧠 Current Focus - 🔥 Build scalable frontend systems - ⚡ Optimize performance & DX - 📱 Product thinking + UX --- ## 📫 Connect With Me <p> <a href="https://linkedin.com/in/your-linkedin"> <img src="https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin" /> </a> <a href="mailto:your-email@gmail.com"> <img src="https://img.shields.io/badge/-Email-000?&logo=gmail" /> </a> </p> --- ## ⚡ Fun Fact > I don't just build UI — I build products.
+<!-- GitHub Profile README — Đỗ Bá Đạt -->
+
+<h1 align="center">Dat Do</h1>
+<p align="center">
+  Frontend Developer · Ho Chi Minh City, Vietnam
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-4%2B%20years-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Stack-React%20%C2%B7%20Next.js%20%C2%B7%20TypeScript-6366f1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20opportunities-22c55e?style=flat-square" />
+</p>
+
+---
+
+## About
+
+Frontend developer focused on building performant, scalable web applications.
+I care about clean architecture, reusable component systems, and developer experience — not just shipping pixels.
+
+Currently working on SSR-heavy products with Next.js App Router, and exploring auth architecture patterns and design token systems.
+
+---
+
+## Tech stack
+
+**Core**
+`React` `Next.js` `TypeScript` `TailwindCSS` `SCSS`
+
+**State & UI**
+`Redux` `Zustand` `Shadcn/ui` `GSAP`
+
+**Also worked with**
+`WordPress` `PHP Blade` `Nuxt.js` `Algolia` `Figma`
+
+---
+
+## Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **190 Booking** | Travel booking platform — flights, hotels, tours & visas. Rebuilt frontend architecture from scratch. | Next.js · TypeScript · Tailwind · Redux |
+| **Boss Hunting** | Editorial media platform. Led frontend from scratch — infinite scroll, dynamic layouts, content discovery. | WordPress · GSAP · AJAX |
+| **WPM** | Internal tool managing 1,000+ websites. Refactored frontend architecture for maintainability. | PHP Blade · JS · REST API |
+| **CRM UI** | Modular component library for CRM systems — reduced dev time by ~30% across projects. | React · TypeScript |
+
+---
+
+## Experience
+
+**MAC USA ONE** — Frontend Developer *(Oct 2024 – May 2026)*
+CRM systems, modular UI components, workflow automation
+
+**FG Organization** — Frontend Developer *(Aug 2023 – Aug 2024)*
+CMS platforms (Sapo, Wix, WordPress), SEO optimization
+
+**Namtech Solutions** — Frontend Developer *(Oct 2021 – Jun 2023)*
+Responsive web development, Figma-to-code, mentoring junior developers
+
+---
+
+## Connect
+
+- Email: badat336@gmail.com
+- LinkedIn: [linkedin.com/in/badat182](https://linkedin.com/in/badat182)
+- Location: Ho Chi Minh City, Vietnam
