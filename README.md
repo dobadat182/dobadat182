@@ -1,10 +1,10 @@
 <!-- GitHub Profile README — Đỗ Bá Đạt -->
 
-<h1 align="center">Dat Do</h1>
-<p align="center">
+<h1>Dat Do</h1>
+<p>
   Frontend Developer · Ho Chi Minh City, Vietnam
 </p>
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Experience-4%2B%20years-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Stack-React%20%C2%B7%20Next.js%20%C2%B7%20TypeScript-6366f1?style=flat-square" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20opportunities-22c55e?style=flat-square" />
