@@ -12,6 +12,10 @@
 
 ---
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dobadat182&theme=transparent&show_icons=true)
+
+---
+
 ## About
 
 Frontend developer focused on building performant, scalable web applications.
