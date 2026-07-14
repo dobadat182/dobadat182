@@ -12,8 +12,7 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dobadat182&theme=transparent&show_icons=true)
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=dobadat182&rank_icon=github&custom_title=Github%20Stats&include_all_commits=true&theme=vue)](https://github-stats-extended.vercel.app/api?username=dobadat182&rank_icon=github&custom_title=Github%20Stats&include_all_commits=true&theme=vue)
 ---
 
 ## About
